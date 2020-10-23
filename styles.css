@@ -9,3 +9,7 @@ body {
 .carousel-indicators {
   transform: translateY(50px);
 }
+.jumbotron {
+  background-image: url("https://www.spielekauf.de/assets/images/offers/GOG-Visa-Children-of-Morta.jpg");
+  background-size: cover;
+}
