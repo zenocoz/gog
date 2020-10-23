@@ -2,6 +2,15 @@ body {
   background-color: #d8d8d8;
 }
 
+.navbar {
+  background-color: #41303a;
+}
+
+.navbar a {
+  font-size: small;
+  color: white !important;
+}
+
 #car1 {
   overflow: visible;
 }
