@@ -1,0 +1,11 @@
+body {
+  background-color: #d8d8d8;
+}
+
+#car1 {
+  overflow: visible;
+}
+
+.carousel-indicators {
+  transform: translateY(50px);
+}
