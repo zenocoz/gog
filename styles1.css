@@ -1,0 +1,34 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+.navbar-brand img {
+  width: 25px;
+  height: 25px;
+  padding: 4px;
+  background-color: white;
+  border-radius: 4%;
+}
+.navbar::before {
+  content: " ";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 10px;
+  background-color: rgb(180, 49, 180);
+}
+
+.custom-nav {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.custom-nav a {
+  color: rgba(184, 184, 184);
+}
+
+.custom-nav a:hover {
+  color: white;
+  text-decoration: none;
+}
